@@ -1,0 +1,8 @@
+<edgeRelations>
+    <interval begin = "0" end = "3600">
+        <edgeRelation from = "e_in" to = "s_out" probability = "0.2" />
+        <edgeRelation from = "e_in" to = "w_out" probability = "0.5" />
+        <edgeRelation from = "e_in" to = "n_out" probability = "0.3" />
+        <!---->
+    </interval>
+</edgeRelations>
